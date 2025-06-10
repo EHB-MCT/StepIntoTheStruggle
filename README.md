@@ -87,3 +87,10 @@ Onder begeleiding van: Stefan Tilburgs
 Hogeschool: Erasmushogeschool Brussel | Multimedia & Creative Technologies
 Jaar: 2024 – 2025
 
+Gebruik gemaakt van: 
+Documentatie Mediapipe : https://github.com/torinmb/mediapipe-touchdesigner
+OpenAI Chatgpt voor python code : [chatgpt.com](https://chatgpt.com/)
+Mediapipe tutorial : https://www.youtube.com/watch?v=6uibOShiOnU&ab_channel=TheInteractive%26ImmersiveHQ
+
+
+
